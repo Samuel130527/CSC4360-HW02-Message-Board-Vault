@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470719460057",
+    "project_id": "csc4360-messageboard-hw02",
+    "storage_bucket": "csc4360-messageboard-hw02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470719460057:android:b88fbba213991803d484c8",
+        "android_client_info": {
+          "package_name": "com.example.message_board"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXYi83hYKnfTBbJfBQ_zbrMNSDhl_wCLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
